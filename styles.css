@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(135deg, #2C98A0, #B0FZBC);
+    font-family: Arial, sans-serif;
+    direction: rtl;
+}
+header {
+    display: flex; justify-content: space-around; align-items: center;
+    padding: 10px; background: linear-gradient(45deg, #081F5C, #F9FCFF);
+}
+.logo { width: 50px; height: auto; }
+button { padding: 10px 20px; background: #4B2991; color: #F6A97A; border: none; }
